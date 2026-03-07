@@ -4,6 +4,7 @@
 
 <br>
 <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Rackway/branding/refs/heads/main/assets/icon_128x128.webp" width="32" valign="middle">&nbsp;&nbsp;
   Rackway
   <br><br>
 </h1>
