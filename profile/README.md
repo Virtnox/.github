@@ -3,13 +3,13 @@
 
 
 <br>
-<h1 align="center">
+<h1>
   <img src="https://github.com/Rackway/branding/raw/main/assets/wordmark.png" width="256" valign="middle">&nbsp;&nbsp;
   <br><br>
 </h1>
 
-<h3 align="center">Modern & powerful hosting provider</h3>
-<p align="center">
-Rackway is a modern hosting provider delivering reliable, flexible infrastructure that puts you in full control. Powered by our custom-built control panel & software, Rackway emphasizes transparency, simplicity, and freedom for its users.
+<h3>Modern hosting where control meets clarity</h3>
+<p>
+Rackway is a modern hosting provider delivering reliable, flexible infrastructure that puts you in full control.
 </p>
 <br>
