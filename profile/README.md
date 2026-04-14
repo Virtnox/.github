@@ -4,12 +4,12 @@
 
 <br>
 <h1>
-  <img src="https://github.com/Rackway/branding/raw/main/assets/wordmark.png" width="256" valign="middle">&nbsp;&nbsp;
+  <img src="https://github.com/Virtnox/branding/raw/main/assets/Wordmark.png" width="256" valign="middle">&nbsp;&nbsp;
   <br><br>
 </h1>
 
 <h3>Modern hosting where control meets clarity</h3>
 <p>
-Rackway is a modern hosting provider delivering reliable, flexible infrastructure that puts you in full control.
+Virtnox is a modern hosting provider delivering reliable, flexible infrastructure that puts you in full control.
 </p>
 <br>
