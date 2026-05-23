@@ -8,7 +8,7 @@
   <br><br>
 </h1>
 
-<h3>Modern hosting where control meets clarity</h3>
+<h3>Modern cloud where control meets clarity</h3>
 <p>
 Virtnox delivers modern cloud infrastructure built for reliability, flexibility, and complete control.
 </p>
