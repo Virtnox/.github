@@ -4,7 +4,7 @@
 
 <br>
 <h1>
-  <img src="https://github.com/Virtnox/branding/blob/main/Wordmark.png" width="256" valign="middle">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Virtnox/branding/main/wordmark-accent.svg" width="256" valign="middle">&nbsp;&nbsp;
   <br><br>
 </h1>
 
