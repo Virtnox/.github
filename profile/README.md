@@ -10,6 +10,6 @@
 
 <h3>Modern hosting where control meets clarity</h3>
 <p>
-Virtnox is a modern hosting provider delivering reliable, flexible infrastructure that puts you in full control.
+Virtnox delivers modern cloud infrastructure built for reliability, flexibility, and complete control.
 </p>
 <br>
